@@ -18,4 +18,4 @@ npm install
 <a href="https://marketplace.visualstudio.com/items?itemName=ms-playwright.playwright">Playwright Test for VSCode </a> <br>
 
 <h2>#Running Test</h2> 
-npx playwright test
+npx playwright test --headed
