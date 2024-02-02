@@ -1,7 +1,9 @@
 <h1> Playwright / Qubika challenge</h1>
 
 <h2>Description</h2>
-This repository contains an automation flow for a sports platform.
+This repository contains an automation flow for a sports platform. <br>
+<i>A report of the test can be found at: ./playwright-reportx</i>
+
 
 <h2>#Prerequisites</h2>
 Download and install Node.js <br>
