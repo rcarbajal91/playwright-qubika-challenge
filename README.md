@@ -1,4 +1,4 @@
-<h1> Playwright / Qubika challenge</h1>
+<h1>Playwright / Qubika challenge</h1>
 
 <h2>Description</h2>
 This repository contains an automation flow for a sports platform. <br>
